@@ -1,4 +1,4 @@
-# Troca-Cores-RGB
+# Troca Cores RGB
 
 Este projeto Arduino permite controlar a cor de um LED RGB utilizando um potenciômetro. Conforme você gira o botão do potenciômetro, a cor da luz muda entre vermelho, verde, azul ou desliga completamente, com base no valor analógico lido.
 
