@@ -38,3 +38,16 @@ O programa lê o valor analógico do potenciômetro (entre 0 e 1023) e muda a co
 | A0           | Potenciômetro (meio) |
 | 5V / GND     | Potenciômetro (lados) e GND dos LEDs |
 
+---
+## Estágios do LED RGB
+
+Abaixo estão as fotos de cada estágio do LED RGB conforme a leitura do potenciômetro:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thaigalhaes/Troca-Cores-RGB/main/apagado.jpg" width="200" alt="LED Apagado"/>
+  <img src="https://raw.githubusercontent.com/thaigalhaes/Troca-Cores-RGB/main/vermelho.jpg" width="200" alt="LED Vermelho"/>
+  <img src="https://raw.githubusercontent.com/thaigalhaes/Troca-Cores-RGB/main/verde.jpg" width="200" alt="LED Verde"/>
+  <img src="https://raw.githubusercontent.com/thaigalhaes/Troca-Cores-RGB/main/azul.jpg" width="200" alt="LED Azul"/>
+</p>
+
+
